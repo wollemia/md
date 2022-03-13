@@ -244,7 +244,7 @@ ECG for treatment purposes
 
 MoCA
 
-Stroop colour words test 
+Stroop colour words test
 
 ## Dementia
 
@@ -318,6 +318,31 @@ Lewy bodies = eosinophilic introcytoplasmic inclusions in deep brain matter cont
 
 Affects a younger age group. 3 variants = behavioural, non-fluent primary progressive aphasia, semantic primary progressive aphasia.
 * Associated with some forms of motor neuron disease
+
+## Falls
+
+You want to characterise why someone fell, and what puts them at risk of falling again.
+* History of falls
+* Medications: worst are benzodiazepines, SSRIs, sedatives and hypnotics. Polypharmacy also bad. Check BP and doses of  antihypertensives.
+* Gait and balance
+* Cognition
+* Lower limb joint function
+* Neurological impairment
+* Muscle strength
+* HR and rhythm
+* Postural hypotention
+* Feet and footwear
+* Environmental hazards
+
+If head trauma, neurology, anticoagulation, consider CT brain.
+
+
+
+### Gait disturbances
+
+Break into low-level, mid level and high level gait disorders.
+
+
 
 ## Legal Aspects of ageing
 
