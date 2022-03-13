@@ -3,72 +3,72 @@
 ## Front matter
 
 ### Matthew’s Cat 1 list for psych:
--	Borderline PD characterisation
--	Depression characterisation
--	First-rank symptoms for schizophrenia
--	If no distress and dysfunction it may not be a disorder
--	SSRIs – the drugs and how to counsel
+- Borderline PD characterisation
+- Depression characterisation
+- First-rank symptoms for schizophrenia
+- If no distress and dysfunction it may not be a disorder
+- SSRIs – the drugs and how to counsel
 
 ### Core presentations + DDx for each
--	Aggression
+- Aggression
   + Personality disorder
   + Delirium
   + Substance withdrawal
   + Substance intoxication
   + Psychosis
--	Agitation
+- Agitation
   + Delirium
   + Psychosis
   + Anxiety disorders
   + Substance withdrawal
   + Acquired brain injury
--	Bizarre behaviour
+- Bizarre behaviour
   + Early psychosis
   + Chronic psychosis
   + Delirium
   + Substance intoxication
   + Mania
--	Depressed mood
+- Depressed mood
   + MDE as part of MDD
   + Post-partum depression
   + Grief
   + Adjustment disorder
   + Personality disorder
--	Disorganisation
+- Disorganisation
   + Dementia
   + Psychosis
   + Mania
   + Delirium
   + Substance intoxication
   + Acquired brain injury
--	Disorientation
+- Disorientation
   + Dementia
   + Delirium
   + Substance intoxication
   + Acquired brain injury
--	Physical health problems
+- Physical health problems
   + Eating disorder
   + Major depression
   + Mania
   + Psychosis
   + Substance use disorder
   + Somatoform disorder
--	Poor self-care
+- Poor self-care
   + Early psychosis
   + Chronic psychosis
   + Dementia
   + Substance dependence
   + Major depression
--	Social withdrawal
+- Social withdrawal
   + Major depression
   + Early psychosis
   + Chronic psychosis
   + Personality disorder
--	Suicidality
+- Suicidality
   + Major depression
   + Early psychosis
   + Personality disorder
--	Unexplained physical symptoms
+- Unexplained physical symptoms
   + Somatoform disorders
 
 ### Mental health assessment - template
@@ -80,103 +80,103 @@ Purpose (e.g. Psychiatric Clinical Review)
 Participants (Consultant, registrar, nurse, carer, patient, family members)
 
 Problems:
--	Biological e.g. alcohol withdrawal, poor glycaemic control
--	Psychological e.g. resolving psychosis, trauma, low mood
--	Social e.g. financial, accommodation, family concerns
+- Biological e.g. alcohol withdrawal, poor glycaemic control
+- Psychological e.g. resolving psychosis, trauma, low mood
+- Social e.g. financial, accommodation, family concerns
 
 Progress:
--	Response to treatment
+- Response to treatment
 
 MSE: A(a,b)SE(m,a)PTIC
--	Appearance
--	Behaviour
--	Speech
--	(Mood)
--	Affect
--	Thought
--	Perception
--	Cognition
--	Insight
+- Appearance
+- Behaviour
+- Speech
+- (Mood)
+- Affect
+- Thought
+- Perception
+- Cognition
+- Insight
 
 Risk assessment:
--	Acute vs chronic
--	Static vs dynamic
+- Acute vs chronic
+- Static vs dynamic
 
 Impression:
--	E.g. chronic suicidal ideation with nil acute plan or intent on cross-sectional review, best understood in context of patient’s previous diagnosis of borderline personality disorder
+- E.g. chronic suicidal ideation with nil acute plan or intent on cross-sectional review, best understood in context of patient’s previous diagnosis of borderline personality disorder
 
 Plan:
--	Biological e.g. continue medication
--	Psychological e.g. firm limit-setting on the ward, supportive counselling upon discharge
--	Social: e.g. social work input to assist in sourcing access to crisis accommodation
+- Biological e.g. continue medication
+- Psychological e.g. firm limit-setting on the ward, supportive counselling upon discharge
+- Social: e.g. social work input to assist in sourcing access to crisis accommodation
 
 Signature
 3rd year Medical student UoM
 
 ### Physical health assessment
 
--	Major mental illness increases risk for medical conditions and risk for premature death from physical morbidity
--	Screen, assess and facilitate treatment re. physical comorbidity for pts with mental illness
+- Major mental illness increases risk for medical conditions and risk for premature death from physical morbidity
+- Screen, assess and facilitate treatment re. physical comorbidity for pts with mental illness
 
 Reviewing a patient:
--	Physical health history incl. substance use and medical complications of this
--	Family history of physical health problems
+- Physical health history incl. substance use and medical complications of this
+- Family history of physical health problems
   + Beware prescribing meds which increase risk of diabetes or CVD complications
--	Physical exam
+- Physical exam
   + CVD exam
   + Respiratory exam
--	Routine investigations at baseline and again at intervals in metabolic monitoring guidelines
+- Routine investigations at baseline and again at intervals in metabolic monitoring guidelines
   + FBE, UEC, LFT, TFT, fasting lipids and glucose, prolactin levels, vitamin D, vit B12, ECG
   + Intervals more frequent if clinically indicated eg weight gain or medication changes
 
 Patients on __clozapine__:
--	Increased risk of __neutropenia__ and __myocarditis__
+- Increased risk of __neutropenia__ and __myocarditis__
   + Most risk in first 18 weeks of treatment
   + Symptoms can be nonspecific flu-like symptoms
   + FBE and ECG
--	Increased risk of __constipation__ leading to __bowel obstruction__
+- Increased risk of __constipation__ leading to __bowel obstruction__
   + Mortality risk of bowel perforation
   + Prescribe aperients
   + Practice GI exam
 
-  ### History of Psychiatry
+### History of Psychiatry
 
-  -	Distinction between history and memory
-    + Be critical and discerning of different histories
-    + ‘History’ often written by clinicians not historians – returning to primary sources can be fun and informative
-    + Are you being sold a line
-  -	Association between history and identity
-  -	Multiple histories of and histories within psychiatry
-    + Mythologisation of Philippe Pinel after his death
-    + Influential as medical classifier in his lifetime, 1745 to 1826
-    + Standing diminished after his death to be revived as a mythical figurehead of the profession of psychiatry – 1849 he is painted by Muller, ordering the striking of chains from a madman (commissioned by…who?); 1878 a Fleury painting; Durand statue in 1885.
-    + Foucault, who portrays Pinel in dark tones, as the instigator of a disease centred (cf person centred) exploitative ideological enterprise underpinning modern psychiatry. Read ‘History of Madness’ for more.
-    + “According to Foucault, under the guise of an enlightened, humane, medical and scientific management of madness, a new regime of control, surveillance and psychological unfreedom is ushered in” – Mike Salzberg, C-L head at SVHA
-  -	‘Triangle of reference’, __the semiotic triangle = words, concepts, reality__
-    + In context of the collective history of mental disorders: connections between psych terms, psych concepts of disorder, and occurrences of mental or behavioural disturbance in the real world.
-  - Neurosis
-    + Cullen’s nosology was v influential in the 18th C. Four classifications of illnesses generally: pyrexiae, neurosiae, cachexiae, localae
-    + Included in neurosiae were any disorders affecting the nervous system generally. Elevates the brain to a central role in all disorders.
-    + Notable neuroses which were lost by the end of the 19th C: epilepsy (--> neurology), insanity (--> psychosis --> psychiatry), and hysteria (abandoned). Sometimes an organic cause/lesion was found (e.g. syphilis)
-    + The word “neurosis” is picked up by psychoanalysis
-    + Reacting to this, DSM-III proposed to remove neurosis as a diagnostic concept >> psychoanalysts mobilised against this because most of what they were treating (in spas, private practise) were the neuroses
-  -	Neuroculture
-    + ‘Brainhood, anthropological figure of modernity’ – Fernando Vidal 2009
-    + George S Rousseau started thinking about brain based thinking – traced it to Thomas Willis, 1680 anatomist; Cheyne, a nerve doctor; Samuel Richardson, writer. Griesinger links growth of arts and sciences to an increase in cerebral activity in 1861. In 1870s-1880s we thought we were going to solve the mystery of the insanities (similar excitement to that happening in neuroscience now) – then a collapse, failure after failure, then the rise of psychoanalysis, experimental psychology, retreat back to the bedside.
-    + RDoC vs DSM-ICD
+- Distinction between history and memory
+  + Be critical and discerning of different histories
+  + ‘History’ often written by clinicians not historians – returning to primary sources can be fun and informative
+  + Are you being sold a line
+- Association between history and identity
+- Multiple histories of and histories within psychiatry
+  + Mythologisation of Philippe Pinel after his death
+  + Influential as medical classifier in his lifetime, 1745 to 1826
+  + Standing diminished after his death to be revived as a mythical figurehead of the profession of psychiatry – 1849 he is painted by Muller, ordering the striking of chains from a madman (commissioned by…who?); 1878 a Fleury painting; Durand statue in 1885.
+  + Foucault, who portrays Pinel in dark tones, as the instigator of a disease centred (cf person centred) exploitative ideological enterprise underpinning modern psychiatry. Read ‘History of Madness’ for more.
+  + “According to Foucault, under the guise of an enlightened, humane, medical and scientific management of madness, a new regime of control, surveillance and psychological unfreedom is ushered in” – Mike Salzberg, C-L head at SVHA
+- ‘Triangle of reference’, __the semiotic triangle = words, concepts, reality__
+  + In context of the collective history of mental disorders: connections between psych terms, psych concepts of disorder, and occurrences of mental or behavioural disturbance in the real world.
+- Neurosis
+  + Cullen’s nosology was v influential in the 18th C. Four classifications of illnesses generally: pyrexiae, neurosiae, cachexiae, localae
+  + Included in neurosiae were any disorders affecting the nervous system generally. Elevates the brain to a central role in all disorders.
+  + Notable neuroses which were lost by the end of the 19th C: epilepsy (--> neurology), insanity (--> psychosis --> psychiatry), and hysteria (abandoned). Sometimes an organic cause/lesion was found (e.g. syphilis)
+  + The word “neurosis” is picked up by psychoanalysis
+  + Reacting to this, DSM-III proposed to remove neurosis as a diagnostic concept >> psychoanalysts mobilised against this because most of what they were treating (in spas, private practise) were the neuroses
+- Neuroculture
+  + ‘Brainhood, anthropological figure of modernity’ – Fernando Vidal 2009
+  + George S Rousseau started thinking about brain based thinking – traced it to Thomas Willis, 1680 anatomist; Cheyne, a nerve doctor; Samuel Richardson, writer. Griesinger links growth of arts and sciences to an increase in cerebral activity in 1861. In 1870s-1880s we thought we were going to solve the mystery of the insanities (similar excitement to that happening in neuroscience now) – then a collapse, failure after failure, then the rise of psychoanalysis, experimental psychology, retreat back to the bedside.
+  + RDoC vs DSM-ICD
 
 ## The MSE and The Interview
 
 ### Philosophical Waffle
 
--	Cartesian doubt: in his Discours de la méthode 1637, Descartes (1596-1650) resolved to doubt everything he could (absolute scepticism)
--	Kant: __object__ (content/sensation) + subjective apparatus __ordering__ the phenomenon (form)
--	Husserl: Phenomenological method
--	Karl Jaspers: General Psychopathology first published 1913.
+- Cartesian doubt: in his Discours de la méthode 1637, Descartes (1596-1650) resolved to doubt everything he could (absolute scepticism)
+- Kant: __object__ (content/sensation) + subjective apparatus __ordering__ the phenomenon (form)
+- Husserl: Phenomenological method
+- Karl Jaspers: General Psychopathology first published 1913.
   + Entering into the mental life of patients <==> empathy.
   + Emphasis on the form of a delusion (how the subject orders the experience), rather than their content
   + Critical of psychoanalysis (?focus on content)
--	The MSE is driven by curiosity and play – what can you find out?
+- The MSE is driven by curiosity and play – what can you find out?
 
 ### Reporting the MSE
 
@@ -276,12 +276,12 @@ Perception: altered bodily experiences (depersonalisation, derealisation), __pas
 Disorders of thought, language and communication (TLC) replaces “formal thought disorder” (FTD).
 
 __MORE PATHOLOGICAL communication disorders:__
--	Poverty of content of speech (poverty of thought, alogia, verbigeration, negative FTD) = “long enough” replies which convey little information.
--	Pressure of speech = rapid, hard to interrupt, spontaneous speech. In general <150 words/min.
+- Poverty of content of speech (poverty of thought, alogia, verbigeration, negative FTD) = “long enough” replies which convey little information.
+- Pressure of speech = rapid, hard to interrupt, spontaneous speech. In general <150 words/min.
   + If taking phenothiazines or lithium speech can be slowed by meds, and judged only on amount, volume and appropriateness.
--	Distractible speech = stopping speech or changing the subject in response to a nearby object.
--	Tangentiality = tangential/oblique/irrelevant replies to questions.
--	Derailment (flight of ideas, loose associations) = connecting disjointed ideas until the reply is no longer relating to the question at all.
+- Distractible speech = stopping speech or changing the subject in response to a nearby object.
+- Tangentiality = tangential/oblique/irrelevant replies to questions.
+- Derailment (flight of ideas, loose associations) = connecting disjointed ideas until the reply is no longer relating to the question at all.
   + Flight of ideas = rapid derailment in context of pressured speech
   + Ideas may be thought logically but not articulated; one can try slowing the patient down
 
@@ -297,10 +297,10 @@ __LESS PATHOLOGICAL communication disorders:__
 
 __MORE PATHOLOGICAL language disorders:__
 - Incoherence (word salad, jargon aphasia, schizophasia, paragrammatism) = incomprehensible speech. Word substitutions, deletion of conjunctions, random word choice.
--	Clanging = sounds govern word choice.
--	Neologisms = completely new words.
--	Word approximations (paraphasia, metonymy) = existing words used in place of conventional words. E.g. food vessel = stomach.
--	NOT the intentional use of metaphors.
+- Clanging = sounds govern word choice.
+- Neologisms = completely new words.
+- Word approximations (paraphasia, metonymy) = existing words used in place of conventional words. E.g. food vessel = stomach.
+- NOT the intentional use of metaphors.
 
 __MORE PATHOLOGICAL Thought disorders:__
 -	Poverty of speech (laconic speech, poverty of thought) = little spontaneous speech. Rate from 0 (substantial and appropriate replies), to 4 (essentially mute).
@@ -315,22 +315,22 @@ __MORE PATHOLOGICAL Thought disorders:__
 
 ### Delusions
 
--	Delusions said to be __fixed false beliefs held with absolute conviction__ even when challenged by the interviewer, __preeminent__ in the patient’s thinking; bizarre logic; contaminate other beliefs about the world; emerge pathologically; incongruent with their cultural context
+- Delusions said to be __fixed false beliefs held with absolute conviction__ even when challenged by the interviewer, __preeminent__ in the patient’s thinking; bizarre logic; contaminate other beliefs about the world; emerge pathologically; incongruent with their cultural context
 	+ Probe them – are you sure about this? What evidence do you have?
--	Form classed as primary or secondary
+- Form classed as primary or secondary
 	+ Primary delusions are _de novo_. 4 kinds: autochthonous delusions; slowly developing delusionary atmosphere; delusional perception; delusional memory
 	+ Secondary delusions are traceable to interactions w the world, or to primary delusions
--	Content classed as bizarre vs non-bizarre
+- Content classed as bizarre vs non-bizarre
 	+ Bizarre: fantastic, possibilities endless
 	+ Non-bizarre: persecution, passion, identity, grandeur, non-existent, somatic, reference
 	+ Affective delusions: in depression – delusions of poverty, worthlessness, guilt, failure, nihilism; in mania – talent, knowledge, power, identity
--	Passivity phenomena: “made to” feel/do things
--	Obsessional thinking
+- Passivity phenomena: “made to” feel/do things
+- Obsessional thinking
 
 ### Hallucinations
 
 Trying to understand “I’m hearing voices”:
--	Just sounds, or voices? Are they loud or soft? Male or female voices? Where are they coming from? What are they saying? How are you feeling about what they are saying?
+- Just sounds, or voices? Are they loud or soft? Male or female voices? Where are they coming from? What are they saying? How are you feeling about what they are saying?
 
 
 ### Interview Techniques in Psychiatry
@@ -341,20 +341,20 @@ Changing minds, ABC doco.
 
 HISTORY + MSE + PHYSICAL  FORMULATION + DIAGNOSIS  MANAGEMENT AND PROGNOSIS
 
--	Formulation = answer why is the patient presenting with these sx at this time?
-o	Use bio-psycho-social; under each look for predisposing, precipitating, perpetuating and protective factors
--	Know enough DSM criteria to justify diagnoses
--	10 rules for good conversations
-o	Be present; don’t multitask
-o	Don’t pontificate – assume you have something to learn
-o	Open-ended, enquiring, curious questions
-o	Go with the flow
-o	If you don’t know, say so
-o	Don’t equate your experience with others’
-o	Try not to repeat yourself
-o	Stay out of the weeds
-o	Listen with the intent to understand, not to reply
-o	Be brief
+- Formulation = answer why is the patient presenting with these sx at this time?
+  + Use bio-psycho-social; under each look for predisposing, precipitating, perpetuating and protective factors
+- Know enough DSM criteria to justify diagnoses
+- 10 rules for good conversations
+  + Be present; don’t multitask
+  + Don’t pontificate – assume you have something to learn
+  + Open-ended, enquiring, curious questions
+  + Go with the flow
+  + If you don’t know, say so
+  + Don’t equate your experience with others’
+  + Try not to repeat yourself
+  + Stay out of the weeds
+  + Listen with the intent to understand, not to reply
+  + Be brief
 -	Building therapeutic alliance
   + Ask questions like a kid would!
   + “Is that why…”
@@ -383,11 +383,11 @@ o	Be brief
 
 Start with name and age, and your role, then what’s important for the patient. This forms the basis of your lead in to what you want to find out.
 
--	Preparing for the interview
+- Preparing for the interview
   + File review
   + See the pt at 90 degrees rather than front on – less confrontational
--	Demographic
--	HOPC
+- Demographic
+- HOPC
   + What sequence of events got them here
   + Timeline, what noticed, when last well
   + Precipitants: death, divorce, debt, drugs, drama, disease
@@ -1134,7 +1134,7 @@ TREATMENT:
   + ECT
 -	Psycho: education, adjustment, lifestyle, harm reduction
 
-#### Lithium therapy
+### Lithium therapy
 
 - Medical history and physical exam
 - Biochemistry
@@ -1366,7 +1366,7 @@ a way of thinking, relating to others, living in the world; causing distress to 
   + Emotions shallow and shifting
   + Made-up – physical appearance used to draw attention
   + Exaggerated emotions – theatrical
--	__Narcissistic PD__: _the most important person in the room_. A pervasive pattern of grandiosity (in fantasy or behaviour), need for admiration, lack of empathy, beginning by early adulthood and present in a variety of contexts. 5 or more of:
+- __Narcissistic PD__: _the most important person in the room_. A pervasive pattern of grandiosity (in fantasy or behaviour), need for admiration, lack of empathy, beginning by early adulthood and present in a variety of contexts. 5 or more of:
   + Special and unique
   + Preoccupied with fantasy of unlimited power, success
   + Envious
