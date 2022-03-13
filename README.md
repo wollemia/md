@@ -5,6 +5,10 @@
 - [Mental health](https://wollemia.github.io/md/md3_MH)
 - [Aged care](https://wollemia.github.io/md/md3_AC)
 
+### General content
+
+- [General medicine](https://wollemia.github.io/md/GenMed
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wollemia/md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
