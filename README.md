@@ -1,5 +1,7 @@
 ## Postgrad Med Study Notes
 
+Wollemia is a genus of coniferous trees in the family Araucariaceae known only through fossil records until 1994, when the species Wollemia nobilis was discovered in a temperate rainforest wilderness area growing in a remote series of narrow, steep-sided, sandstone gorges in Wollemi National Park, NSW, Australia. It has nothing to do with medicine at all but I like the story of the Wollemi pine very much, so it is the name under which they are hosted.
+
 ### Third year content
 
 - [Mental health](https://wollemia.github.io/md/md3_MH)
@@ -8,11 +10,3 @@
 ### General content
 
 - [General medicine](https://wollemia.github.io/md/GenMed)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wollemia/md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
