@@ -269,7 +269,7 @@ Perception: altered bodily experiences (depersonalisation, derealisation), __pas
   + What the patient feels they should do about their current state, if anything, in context of their current psychological state
 - Judgement: intact to impaired judgement. Explore this via recent everyday decision-making)
 
-![A Normal MSE](md3_images/normal_MSE.png)
+![A Normal MSE](https://github.com/wollemia/md/blob/main/normal_MSE.png)
 
 ### Disorders of Thought, Language and Communication (TLC)
 
@@ -434,7 +434,7 @@ Consider collateral history – consent from patient first.
 
 ### Review of Systems
 
-![Review of systems.](md3_images/triangle.png)
+![Review of systems.](https://github.com/wollemia/md/blob/main/triangle.png)
 
 -	Psychotic: have you had any unusual experiences lately?
   + Hallucinations
@@ -574,7 +574,7 @@ Biologic standpoint: disturbed central neurotransmission + stress pathways (HPA 
 
 ### Obsessive-Compulsive Disorder (OCD)
 
-![How obsessions lead to compulsions.](md3_images/OCD.png)
+![How obsessions lead to compulsions.](https://github.com/wollemia/md/blob/main/OCD.png)
 
 -	Obsessions
   + Recurrent and persistent thoughts, impulses or images.
@@ -904,7 +904,7 @@ Geared to promoting patient autonomy and rights.
 
 __Mental illness__ == a medical condition characterised by a __significant disturbance of thought, mood, perception or memory__
 
-![Order of orders in the mental health act](md3_images/MHAct.png)
+![Order of orders in the mental health act](https://github.com/wollemia/md/blob/main/MHAct.png)
 
 The orders can be revoked at any point (AO, TTO, TO) by the psychiatrist or the MH tribunal. Once an order is revoked the pt becomes voluntary.
 
@@ -967,7 +967,7 @@ There are only __four criteria__ which must be met if a patient is to be said to
 
 In reality, if a treatment option is low risk and likely reward, there is a lower bar for passing a capacity assessment than if a treatment option is high risk and less likely to benefit the patient.
 
-![Capacity thresholds](/md3_images/capacity.png)
+![Capacity thresholds](https://github.com/wollemia/md/blob/main/capacity.png)
 
 ### Cases
 
@@ -1340,8 +1340,7 @@ a way of thinking, relating to others, living in the world; causing distress to 
 
 -	__Borderline PD__: ‘I DESPAIRR’. _Dramatic self-harm/suicide attempts_. A pervasive pattern of instability of interpersonal relationships, self-image, and marked impulsivity beginning early adulthood and present in a variety of contexts. 5 or more of:
   + Identity disturbance
-  + Disordered unstable affect - _emotional dysregulation_
-    * Self-harm can be a way of regulating their emotions.
+  + Disordered unstable affect - _emotional dysregulation_ - __Self-harm can be a way of regulating their emotions.__
   + Emptiness (chronic feeling)
   + Suicidal or self-harm ideation/actions
   + Paranoid ideation or severe dissociative symptoms
@@ -1559,7 +1558,7 @@ Adverse events
   + Bowel perforation is the serious concern
   + Aperients to prevent
 
-![Table of SEs of atypical antipsychotics](md3_images/atypicals_SEs.png)
+![Table of SEs of atypical antipsychotics](https://github.com/wollemia/md/blob/main/atypicals_SEs.png)
 
 Treating psychosis: an __atypical__ agent should be __first line__. Try two then try olanzapine or clozapine.
 -	Consider benzo for short-term sx relief: diazepam for agitation/aggression, loraz for anxiety, temaz for sleep disturbance
@@ -1757,7 +1756,7 @@ Predictors of a good outcome:
 
 ### Features by DSM-V
 
-![Diagnoses assocaited with substance class](md3_images/substanceDiagnoses.png)
+![Diagnoses assocaited with substance class](https://github.com/wollemia/md/blob/main/substanceDiagnoses.png)
 
 - Does not separate abuse and dependence.
 - Criteria provided with severity judged based on how mnay criteria met.
