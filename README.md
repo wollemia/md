@@ -7,7 +7,7 @@
 
 ### General content
 
-- [General medicine](https://wollemia.github.io/md/GenMed
+- [General medicine](https://wollemia.github.io/md/GenMed)
 
 ### Jekyll Themes
 
