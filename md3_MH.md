@@ -233,7 +233,7 @@ __3 Thought__: stream, form, and content.
   + Disordered: circumstantial, tangential, derailment, loose associations, word salad. Flight of ideas = tangential thoughts all strung together quickly.
   + Perseveration = giving the same answer to many different questions. Normally seen in organic conditions – delirium, dementia
 
-![Disorders of thought form 1](https://github.com/wollemia/md/blob/main/TLC_1.png)
+![Disorders of thought form 1](../blob/main/TLC_1.png)
 ![Disorders of thought form 2](https://github.com/wollemia/md/blob/main/TLC_2.png)
 
 - Content: __obsessions/preoccupations, delusions*__ (e.g. persecutory, referential, grandiose, somatic, bizarre), phobias, magical thinking, thoughts of harm to self or others
